@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+this text conflicts with the main branch references.md file
